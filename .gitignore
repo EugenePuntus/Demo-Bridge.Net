@@ -15,14 +15,16 @@
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
+[Rr]elease/*
 [Rr]eleases/
 x64/
 x86/
 build/
 bld/
-[Bb]in/
+[Bb]in/*
 [Oo]bj/
+DemoBridgeNet/[Bb]in/[Rr]elease/*
+!DemoBridgeNet/[Bb]in/[Rr]elease/bridge/
 
 # ReSharper
 _ReSharper*/
